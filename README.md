@@ -1,4 +1,8 @@
-# Predict-Food-Delivery #
+# Used Cars Dataset #
 
-The provided data contains three .xslx files with 18 columns. Use this data to predict the time take for food to be delivered.
-[Here is a link to the dataset](https://https://www.kaggle.com/ramprasad273/predicting-food-delivery-time)
+**Content**
+
+This data is scraped every few months, it contains most all relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories. For ML projects, consider feature engineering on location columns such as long/lat. For previous listings, check older versions of the dataset.
+
+
+[Here is a link to the dataset](https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
